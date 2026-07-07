@@ -1,9 +1,9 @@
 # BloodBond: Blood Cancer Information and Find Donor
 
-Design and develop a demo website to help blood cancer patients so that they can find right donor.
-–Tools & technologies used: HTML , CSS , JavaScript , PHP , MYSQL ,Apache Server
-–BloodBond is a web-based platform designed to support blood cancer patients by helping them find compatible stem cell donors. The system maintains a database of registered donors and patients, compares stem cell information, and identifies potential donor matches using database-driven matching logic.
-to start: http://localhost/webcoding/loginsystem/login.php
+Design and develop a demo website to help blood cancer patients so that they can find right donor.  
+–Tools & technologies used: HTML , CSS , JavaScript , PHP , MYSQL ,Apache Server  
+–BloodBond is a web-based platform designed to support blood cancer patients by helping them find compatible stem cell donors. The system maintains a database of registered donors and patients, compares stem cell information, and identifies potential donor matches using database-driven matching logic.  
+to start: http://localhost/webcoding/loginsystem/login.php  
 
 ---
 
